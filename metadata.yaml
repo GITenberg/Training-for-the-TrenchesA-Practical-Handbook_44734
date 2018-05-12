@@ -1,0 +1,31 @@
+_repo: Training-for-the-TrenchesA-Practical-Handbook_44734
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44734-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Vickers, Leslie
+    gutenberg_agent_id: '42894'
+    url: http://www.gutenberg.org/2009/agents/42894
+description: ''
+gutenberg_issued: '2014-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44734'
+  lccn: '17017549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Siege warfare'
+- !lcsh 'Defensive (Military science)'
+- !lcsh 'Intrenchments'
+- !lcc 'UG'
+- !lcsh 'Military hygiene'
+- !lcsh 'Offensive (Military science)'
+- !lcsh 'World War, 1914-1918'
+title: "Training for the Trenches\r\nA Practical Handbook Based upon Personal Experience\
+  \ During the First Two Years of the War in France"
+url: http://www.gutenberg.org/ebooks/44734
