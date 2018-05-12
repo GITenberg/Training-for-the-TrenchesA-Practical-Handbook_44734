@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42894'
     url: http://www.gutenberg.org/2009/agents/42894
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44734#Training-for-the-TrenchesA-Practical-Handbook
 gutenberg_issued: '2014-01-23'
 gutenberg_type: Text
 identifiers:
